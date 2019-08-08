@@ -4,8 +4,8 @@
 
 ### Projects 
 
-[Project 1 Title](https://github.com/abell11/Reddit-Post-Split)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Reddit-Post-Split](https://github.com/abell11/Reddit-Post-Split)
+<img src="images/reddit_alien.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
