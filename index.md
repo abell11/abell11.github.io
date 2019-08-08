@@ -1,10 +1,10 @@
-## Projects
+## Portfolio
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://github.com/abell11/Reddit-Post-Split)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
