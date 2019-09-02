@@ -2,18 +2,17 @@
 
 ---
 
-### Projects 
+### General Assembly Projects 
 
 [Reddit-Post-Split](https://github.com/abell11/Reddit-Post-Split)
 <img src="images/reddit_alien.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Trump Twitter Analysis](https://github.com/abell11/Capstone)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
