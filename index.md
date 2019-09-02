@@ -17,11 +17,14 @@
 ---
 
 #### Resume
-[Alex Bell Resume]
+[Click Here](https://github.com/abell11/abell11.github.io/blob/master/pdf/AB_Resume_pdf.pdf)
 
 ---
 
-
+#### Skills
+Python
+SQL
+Scala
 
 
 ---
