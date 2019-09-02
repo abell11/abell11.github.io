@@ -16,17 +16,22 @@
 
 ---
 
-#### Resume
-[Click Here](https://github.com/abell11/abell11.github.io/blob/master/pdf/AB_Resume_pdf.pdf)
-
----
-
 #### Skills
 Python,
 SQL,
 Scala,
 Chart Analysis, 
 Machine Learning
+
+---
+
+#### Interests
+Current events, 
+World news, 
+Weather, 
+Cooking, 
+Sports
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
