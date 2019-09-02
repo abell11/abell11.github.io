@@ -22,10 +22,12 @@
 ---
 
 #### Skills
-Python
-SQL
-Scala
-
+Python,
+SQL,
+Scala,
+Chart Analysis, 
+Machine Learning, 
+Active Learner
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
