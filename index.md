@@ -20,7 +20,8 @@
 Python,
 SQL,
 Scala,
-Chart Analysis, 
+Chart Analysis,
+Natural Language Processing,
 Machine Learning
 
 ---
